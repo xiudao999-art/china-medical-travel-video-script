@@ -1,0 +1,124 @@
+[
+  {
+    "file": "baseline-A/T1.md",
+    "spoken_words": 145,
+    "scenes": []
+  },
+  {
+    "file": "baseline-A/T3.md",
+    "spoken_words": 148,
+    "scenes": []
+  },
+  {
+    "file": "baseline-A/T5.md",
+    "spoken_words": 70,
+    "scenes": []
+  },
+  {
+    "file": "baseline-B/T2.md",
+    "spoken_words": 116,
+    "scenes": []
+  },
+  {
+    "file": "baseline-B/T4.md",
+    "spoken_words": 107,
+    "scenes": []
+  },
+  {
+    "file": "baseline-B/T6.md",
+    "spoken_words": 88,
+    "scenes": [
+      {
+        "time": "0–6 秒",
+        "words": 9,
+        "speech_seconds_at_130": 4.2
+      },
+      {
+        "time": "6–9 秒",
+        "words": 0,
+        "speech_seconds_at_130": 0.0
+      },
+      {
+        "time": "9–27 秒",
+        "words": 29,
+        "speech_seconds_at_130": 13.4
+      },
+      {
+        "time": "27–47 秒",
+        "words": 30,
+        "speech_seconds_at_130": 13.8
+      },
+      {
+        "time": "47–59 秒",
+        "words": 20,
+        "speech_seconds_at_130": 9.2
+      }
+    ]
+  },
+  {
+    "file": "candidate-A/T1.md",
+    "spoken_words": 137,
+    "scenes": []
+  },
+  {
+    "file": "candidate-A/T3.md",
+    "spoken_words": 139,
+    "scenes": []
+  },
+  {
+    "file": "candidate-A/T5.md",
+    "spoken_words": 72,
+    "scenes": []
+  },
+  {
+    "file": "candidate-B/T2.md",
+    "spoken_words": 112,
+    "scenes": []
+  },
+  {
+    "file": "candidate-B/T4.md",
+    "spoken_words": 114,
+    "scenes": []
+  },
+  {
+    "file": "candidate-B/T6.md",
+    "spoken_words": 73,
+    "scenes": [
+      {
+        "time": "00:00–00:08",
+        "words": 9,
+        "speech_seconds_at_130": 4.2
+      },
+      {
+        "time": "00:08–00:15",
+        "words": 6,
+        "speech_seconds_at_130": 2.8
+      },
+      {
+        "time": "00:15–00:29",
+        "words": 17,
+        "speech_seconds_at_130": 7.8
+      },
+      {
+        "time": "00:29–00:46",
+        "words": 17,
+        "speech_seconds_at_130": 7.8
+      },
+      {
+        "time": "00:46–00:58",
+        "words": 24,
+        "speech_seconds_at_130": 11.1
+      }
+    ]
+  },
+  {
+    "file": "holdout/H1.md",
+    "spoken_words": 102,
+    "scenes": []
+  },
+  {
+    "file": "holdout/H2.md",
+    "spoken_words": 72,
+    "scenes": []
+  }
+]

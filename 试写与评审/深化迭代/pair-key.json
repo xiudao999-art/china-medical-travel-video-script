@@ -1,0 +1,14 @@
+{
+  "T1-Y.md": "candidate",
+  "T1-X.md": "baseline",
+  "T2-X.md": "candidate",
+  "T2-Y.md": "baseline",
+  "T3-X.md": "candidate",
+  "T3-Y.md": "baseline",
+  "T4-Y.md": "candidate",
+  "T4-X.md": "baseline",
+  "T5-Y.md": "candidate",
+  "T5-X.md": "baseline",
+  "T6-X.md": "candidate",
+  "T6-Y.md": "baseline"
+}

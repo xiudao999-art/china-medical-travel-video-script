@@ -1,0 +1,23 @@
+{
+  "workspace": "/var/folders/gh/d5j426kd4_l1m3grgpx4kngr0000gn/T/medical-script-eval-n9r51d0g",
+  "baseline_files": {
+    "SKILL.md": "c8533fb68a76bac043baee4af9d6f4ca831766efbcedb9542cd70b6cbaae67e7",
+    "references/story-principles.md": "b8a1d915a9d97dace26d2922ffcefff78c20fbb972e705de643eb9256cd44213",
+    "references/production-sop.md": "d374a92ece29498dd728ad4a052fb7c2ecffea27f8bd788fa0c35155eb05c5f5",
+    "references/writing-guidance.md": "88db0588b0f0ac8814e568d1f6fb5a77279494dafdce87bfc91f5a9437c9dd4b",
+    "references/evaluation.md": "14619052e760f1289ad42c2b4e854b27144cfef6476f1a4ad7719ddb2891c33d",
+    "agents/openai.yaml": "c0889e987f02cb2067b84c033e216991c177d6447da4a2d77f903a984bc9dcc5"
+  },
+  "source_sha256": {
+    "跨文化沟通中的包容与信任_完整课程.md": "e4fc5c68e3f8c6154206498349590e6c5708a3cfcd717fd9eb6b21fb8f9f3f5e",
+    "GC-3-SIlence.pdf": "56213d5975731a60ea7affcbb7921a084cd094f4da4c87037ba3638a5a12d707"
+  },
+  "candidate_files": {
+    "SKILL.md": "ccf1729d123dc481197dd63f48d3c9099b6a1de8b724f7a5853e26487c0bf988",
+    "references/story-principles.md": "183af5846bce8afae3256c78b113ed2a35f5bac3b91673f40e01b7937658f134",
+    "references/production-sop.md": "8e14fb4ac7ccad0eb3abc6d49253842e480a51d058411d2963f2400e2e83c5ac",
+    "references/writing-guidance.md": "1017cac0ea3caaa83efc067ee7e684e8107aca937c5e84eb1d13b12d7a15a3b2",
+    "references/evaluation.md": "14619052e760f1289ad42c2b4e854b27144cfef6476f1a4ad7719ddb2891c33d",
+    "agents/openai.yaml": "c0889e987f02cb2067b84c033e216991c177d6447da4a2d77f903a984bc9dcc5"
+  }
+}

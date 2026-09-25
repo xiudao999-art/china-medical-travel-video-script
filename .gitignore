@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# Local course originals and document rendering artifacts.
+/课程整理/
+
+# Unrelated source documents at the workspace root.
+/*.docx

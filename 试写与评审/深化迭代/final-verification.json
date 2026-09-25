@@ -1,0 +1,72 @@
+{
+  "verified_at_utc": "2026-09-24T17:18:23.993580+00:00",
+  "project": "/Users/mac/Documents/ChatGPT/文案写作skill/skills/china-medical-travel-video-script",
+  "installed": "/Users/mac/.codex/skills/china-medical-travel-video-script",
+  "final_files_sha256": {
+    "SKILL.md": "7bf61f9a0f467228869ce983960da34a47a8b90f3590ff62afed0875b2b02b08",
+    "agents/openai.yaml": "c0889e987f02cb2067b84c033e216991c177d6447da4a2d77f903a984bc9dcc5",
+    "references/evaluation.md": "46a0fab550d688edc357a80d31c6324405dc80564ec6e5c895b931b6e450dac9",
+    "references/production-sop.md": "c2649380ad813a6aec985068528dc564172d9f4a4dc0d31bcc24b43ea387e4a1",
+    "references/story-principles.md": "183af5846bce8afae3256c78b113ed2a35f5bac3b91673f40e01b7937658f134",
+    "references/writing-guidance.md": "f43931782831283fb597116560d31755c77c452a957ef17953e7e0e7c7d7999a"
+  },
+  "project_and_installed_identical": true,
+  "course_sources_unchanged": true,
+  "source_sha256": {
+    "跨文化沟通中的包容与信任_完整课程.md": "e4fc5c68e3f8c6154206498349590e6c5708a3cfcd717fd9eb6b21fb8f9f3f5e",
+    "GC-3-SIlence.pdf": "56213d5975731a60ea7affcbb7921a084cd094f4da4c87037ba3638a5a12d707"
+  },
+  "relative_reference_targets_exist": true,
+  "quick_validate": "Skill is valid!",
+  "test_topics": 8,
+  "generated_scripts": 17,
+  "final_text_cleanup": "Consistency and evaluation reporting edits; no additional full-suite generation after this cleanup.",
+  "selected_scripts": [
+    {
+      "id": "T1",
+      "source": "candidate-A/T1.md",
+      "reason": "第一轮候选；在新旧匿名比较中获偏好。"
+    },
+    {
+      "id": "T2",
+      "source": "baseline-B/T2.md",
+      "reason": "基线稿；首轮匿名比较偏好其开头和完整互动，保留较早的好稿。"
+    },
+    {
+      "id": "T3",
+      "source": "candidate2/T3.md",
+      "reason": "第二轮候选；在第二轮匿名比较中获偏好。"
+    },
+    {
+      "id": "T4",
+      "source": "candidate2/T4.md",
+      "reason": "第二轮候选；比较持平，选此稿以优先展示明确定位与确认步骤。"
+    },
+    {
+      "id": "T6",
+      "source": "candidate-B/T6.md",
+      "reason": "第一轮候选；在新旧匿名比较中获偏好。"
+    },
+    {
+      "id": "H1",
+      "source": "holdout/H1.md",
+      "reason": "新题；独立质量评审通过，无旧版配对。"
+    },
+    {
+      "id": "H2",
+      "source": "holdout/H2.md",
+      "reason": "新题；独立质量评审通过，无旧版配对。"
+    },
+    {
+      "id": "T5",
+      "source": "candidate-A/T5.md",
+      "reason": "第一轮候选；与基线比较持平。仅用于检验范围与CTA写法，产品条件全部来自虚构测试简报。"
+    }
+  ],
+  "scope_limits": [
+    "AI editorial review",
+    "Duration estimates only; no recorded read-through",
+    "No audience or conversion test"
+  ],
+  "delivery_links_exist": true
+}
